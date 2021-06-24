@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    user-select: none;
+}
+#main {
+    height: 504px;
+    width: 504px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: bisque;
+    float: none;
+}
+div {
+    background-color: white;
+    float: left;
+    height: 63px;
+    width: 63px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+
